@@ -1,0 +1,33 @@
+/* Update these styles in your existing or new CSS file */
+
+/* Keyframes for floating animation */
+@keyframes float {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+  
+  /* Apply the floating animation to the game icons */
+  .snakegame img,
+  .mathgame img,
+  .minigame img,
+  .vocabgame img,
+  .typing img,
+  .extra img {
+    animation: float 3s infinite; /* Adjust the duration as needed */
+  }
+  
+  /* Add hover effect on the game icons */
+  .snakegame img:hover,
+  .mathgame img:hover,
+  .minigame img:hover,
+  .vocabgame img:hover,
+  .typing img:hover,
+  .extra img:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+  }
+  

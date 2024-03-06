@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "question": "Which sentence is in the correct past tense form?",
+        "answers": [
+            "She goed to the store yesterday.",
+            "She wented to the store yesterday.",
+            "She went to the store yesterday.",
+            "She go to the store yesterday."
+        ],
+        "correct": 2
+    },
+    {
+        "id": 2,
+        "question": "Choose the correct past tense of the verb 'swim':",
+        "answers": [
+            "swimmed",
+            "swim",
+            "swam",
+            "swum"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 3,
+        "question": "Which sentence is in the correct past tense form?",
+        "answers": [
+            "They eated dinner at a restaurant.",
+            "They ate dinner at a restaurant.",
+            "They eaten dinner at a restaurant.",
+            "They eat dinner at a restaurant."
+        ],
+        "correct": 1
+    },
+    {
+        "id": 4,
+        "question": "Select the correct past tense of the verb 'run':",
+        "answers": [
+            "runned",
+            "run",
+            "ran",
+            "runned"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 5,
+        "question": "Which sentence is in the correct past tense form?",
+        "answers": [
+            "I writed a letter to my friend.",
+            "I wrote a letter to my friend.",
+            "I written a letter to my friend.",
+            "I write a letter to my friend."
+        ],
+        "correct": 1
+    },
+    {
+        "id": 6,
+        "question": "Choose the correct past tense of the verb 'catch':",
+        "answers": [
+            "catched",
+            "catch",
+            "caught",
+            "catched"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 7,
+        "question": "Which sentence is in the correct past tense form?",
+        "answers": [
+            "He bringed his lunch to work.",
+            "He bringing his lunch to work.",
+            "He bring his lunch to work.",
+            "He brought his lunch to work."
+        ],
+        "correct": 3
+    },
+    {
+        "id": 8,
+        "question": "Select the correct past tense of the verb 'give':",
+        "answers": [
+            "gave",
+            "give",
+            "gived",
+            "given"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 9,
+        "question": "Which sentence is in the correct past tense form?",
+        "answers": [
+            "We flied to London last week.",
+            "We fly to London last week.",
+            "We flew to London last week.",
+            "We flown to London last week."
+        ],
+        "correct": 2
+    },
+    {
+        "id": 10,
+        "question": "Choose the correct past tense of the verb 'go':",
+        "answers": [
+            "went",
+            "go",
+            "goed",
+            "gone"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 11,
+        "question": "Which sentence is in the correct past tense form?",
+        "answers": [
+            "They buyed new clothes for the party",
+            "They buyed new clothes for the party",
+            "They bought new clothes for the party",
+            "They buy new clothes for the party"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 12,
+        "question": "Select the correct past tense of the verb 'break':",
+        "answers": [
+            "broked",
+            "break",
+            "broke",
+            "broken"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 13,
+        "question": "Which sentence is in the correct past tense form?",
+        "answers": [
+            "She runned a marathon last month",
+            "She run a marathon last month",
+            "She running a marathon last month",
+            "She ran a marathon last month"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 14,
+        "question": "Choose the correct past tense of the verb 'come':",
+        "answers": [
+            "comed",
+            "come",
+            "come",
+            "came"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 15,
+        "question": "Which sentence is in the correct past tense form?",
+        "answers": [
+            "I rided my bike to school this morning",
+            "I ride my bike to school this morning",
+            "I ridding my bike to school this morning",
+            "I rode my bike to school this morning"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 16,
+        "question": "Select the correct past tense of the verb 'take':",
+        "answers": [
+            "took",
+            "take",
+            "taked",
+            "taken"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 17,
+        "question": "Which sentence is in the correct past tense form?",
+        "answers": [
+            "They throwed the ball to each other",
+            "They threw the ball to each other",
+            "They throw the ball to each other",
+            "They throwed the ball to each other"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 18,
+        "question": "Choose the correct past tense of the verb 'sit':",
+        "answers": [
+            "sat",
+            "sit",
+            "sitted",
+            "sitting"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 19,
+        "question": "Which sentence is in the correct past tense form?",
+        "answers": [
+            "She drinked a glass of water",
+            "She drink a glass of water",
+            "She drank a glass of water",
+            "She drinking a glass of water"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 20,
+        "question": "Which of the sentences is correct past tense?",
+        "answers": [
+            "Last year I go to India.",
+            "Last year I went to India.",
+            "Last year I am going to India.",
+            "Last year I will go to India"
+        ],
+        "correct": 1
+    }
+]

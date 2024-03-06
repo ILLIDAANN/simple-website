@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "question": "Yesterday, I ____ to the park.",
+      "answers": ["went", "go", "going"],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": "My sister ____ a delicious cake last night.",
+      "answers": ["baking", "bake", "baked"],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": "The dog ____ after the ball in the garden.",
+      "answers": ["chase", "chased", "chasing"],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "We ____ a movie at the cinema on Friday.",
+      "answers": ["watch", "watched", "watching"],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": "They ____ breakfast early this morning.",
+      "answers": ["had", "have", "having"],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "question": "She ____ a new dress for the party.",
+      "answers": ["buying", "buy", "bought"],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": "I ____ my homework before dinner.",
+      "answers": ["do", "did", "doing"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "The plane ____ at 10 pm last night.",
+      "answers": ["took off", "take off", "taking off"],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": "They ____ in the pool all afternoon.",
+      "answers": ["swim", "swam", "swimming"],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": "He ____ a cold last week.",
+      "answers": ["having", "have", "had"],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": "We ____ pizza for lunch yesterday.",
+      "answers": ["eating", "eat", "ate"],
+      "correct": 2
+    },
+    {
+      "id": 12,
+      "question": "She ____ a song on the guitar.",
+      "answers": ["playing", "played", "play"],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": "They ____ to bed early last night.",
+      "answers": ["went", "go", "going"],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": "He ____ her a beautiful flower.",
+      "answers": ["give", "gave", "giving"],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "The thief was ____ in the act.",
+      "answers": ["catched", "caught", "catching"],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": "We ____ to the park yesterday.",
+      "answers": ["go", "went", "gone"],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": "The baby ____ all night.",
+      "answers": ["cries", "crying", "cried"],
+      "correct": 2
+    },
+    {
+      "id": 18,
+      "question": "He ____ me a letter a while ago.",
+      "answers": ["send", "sending", "sent"],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "question": "The spider ____ her finger.",
+      "answers": ["bites", "bit", "bitten"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": "She ____ the writings on the board.",
+      "answers": ["erase", "erased", "erasing"],
+      "correct": 1
+    }
+]

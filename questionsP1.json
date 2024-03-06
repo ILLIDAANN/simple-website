@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "question": "Kindly give the Past perfect tense of FORGIVE",
+        "answers": [
+            "forgave",
+            "had forgave",
+            "forgiven",
+            "had forgiven"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 2,
+        "question": "Kindly give the Past perfect tense of DRIVE",
+        "answers": [
+            "drove",
+            "has drove",
+            "driven",
+            "had driven"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 3,
+        "question": "Kindly give the Past perfect tense of FREEZE",
+        "answers": [
+            "froze",
+            "had froze",
+            "had frozen",
+            "frozen"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 4,
+        "question": "Kindly give the Past perfect tense of BLOW",
+        "answers": [
+            "blew",
+            "blown",
+            "had blown",
+            "has blown"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 5,
+        "question": "Kindly give the Past perfect tense of GROW",
+        "answers": [
+            "grew",
+            "had grown",
+            "has grew",
+            "grown"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 6,
+        "question": "Kindly give the Past perfect tense of HIDE",
+        "answers": [
+            "have hid",
+            "had hidden",
+            "hid",
+            "hidden"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 7,
+        "question": "Kindly give the Past perfect tense of RIDE",
+        "answers": [
+            "had ridden",
+            "has ridden",
+            "had rode",
+            "has rode"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 8,
+        "question": "Kindly give the Past perfect tense of SHAKE",
+        "answers": [
+            "has shook",
+            "had shaken",
+            "has shaken",
+            "had shook"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 9,
+        "question": "Kindly give the Past perfect tense of STEAL",
+        "answers": [
+            "had stolen",
+            "has stolen",
+            "had stole",
+            "has stole"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 10,
+        "question": "Kindly give the Past perfect tense of WEAR",
+        "answers": [
+            "has worn",
+            "had wore",
+            "has wore",
+            "had worn"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 11,
+        "question": "Kindly give the Past perfect tense of RISE",
+        "answers": [
+            "has rose",
+            "had rose",
+            "has risen",
+            "had risen"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 12,
+        "question": "Kindly give the Past perfect tense of SHRINK",
+        "answers": [
+            "had shrank",
+            "has shrank",
+            "had shrunk",
+            "has shrunk"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 13,
+        "question": "Kindly give the Past perfect tense of SEE",
+        "answers": [
+            "has saw",
+            "had saw",
+            "had seen",
+            "has seen"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 14,
+        "question": "Kindly give the Past perfect tense of RING",
+        "answers": [
+            "has rung",
+            "had rung",
+            "has rang",
+            "had rang"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 15,
+        "question": "Kindly give the Past perfect tense of WEAVE",
+        "answers": [
+            "had woven",
+            "has woven",
+            "had wove",
+            "has wove"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 16,
+        "question": "Kindly give the Past perfect tense of TEAR",
+        "answers": [
+            "has tore",
+            "has torn",
+            "had torn",
+            "had tore"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 17,
+        "question": "Kindly give the Past perfect tense of WIN",
+        "answers": [
+            "have won",
+            "has won",
+            "had won",
+            "had win"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 18,
+        "question": "Kindly give the Past perfect tense of FORBID",
+        "answers": [
+            "has forbade",
+            "had forbade",
+            "had forbidden",
+            "has forbidden"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 19,
+        "question": "Kindly give the Past perfect tense of LOSE",
+        "answers": [
+            "has lost",
+            "had lose",
+            "had lose",
+            "had lost"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 20,
+        "question": "Kindly give the Past perfect tense of LIE (STRETCH)",
+        "answers": [
+            "has lay",
+            "have lie",
+            "had lain",
+            "has lain"
+        ],
+        "correct": 3
+    }
+]

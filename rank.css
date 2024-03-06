@@ -1,0 +1,64 @@
+body {
+    font-family: 'Comic Sans MS', cursive;
+    background-color: #ffe6ee; /* Light pink background */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.game-container {
+    text-align: center;
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    transition: box-shadow 0.3s ease;
+}
+
+.game-container:hover {
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+    font-size: 36px;
+    color: #ff6f61; /* Reddish-pink */
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #ff6f61; /* Reddish-pink */
+    color: #fff;
+    padding: 15px 30px;
+    margin: 10px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    font-size: 18px;
+}
+
+button:hover {
+    background-color: #ff8b84; /* Lighter reddish-pink */
+    transform: scale(1.05);
+}
+
+#result-container {
+    display: none;
+}
+
+.return-btn {
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 16px;
+    color: #3498db; /* Blue */
+    text-decoration: none;
+    border-bottom: 2px solid #3498db; /* Blue */
+    transition: color 0.3s ease, border-bottom-color 0.3s ease;
+}
+
+.return-btn:hover {
+    color: #2980b9; /* Darker blue */
+    border-bottom-color: #2980b9; /* Darker blue */
+}

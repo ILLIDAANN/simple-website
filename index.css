@@ -1,0 +1,124 @@
+/* Main Dashboard */
+body {
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  background: #F5F5F5;
+}
+
+/* Heading*/
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #172972;
+  margin-bottom: 2rem;
+}
+
+/* Boxes */
+div {
+  margin-top: 100px;
+  position: absolute;
+  width: 226.76px;
+  height: 226.76px;
+  text-align: center;
+  box-shadow: 0px 3.28631px 16.4316px rgba(0, 0, 0, 0.25);
+  border-radius: 36.1494px;
+}
+
+/* Individual box styles */
+.covidgame {
+  left: 226.75px;
+  top: 202.86px;
+  background: #3498db; /* Change color */
+}
+
+.mathgame {
+  left: 603.56px;
+  top: 202.86px;
+  background: #e74c3c; /* Change color */
+}
+
+.minigame {
+  left: 985.75px;
+  top: 202.86px;
+  background: #2ecc71; /* Change color */
+}
+
+.vocabgame {
+  left: 226.75px;
+  top: 490.41px;
+  background: #f39c12; /* Change color */
+}
+
+.typing {
+  left: 603.56px;
+  top: 490.41px;
+  background: #9b59b6; /* Change color */
+}
+
+.extra {
+  left: 985.75px;
+  top: 490.41px;
+  background: #1abc9c; /* Change color */
+}
+.snakegame {
+  left: 1350.75px;
+  top: 490.41px;
+  background: #8ebc1a; /* Change color */
+}
+
+h2{
+  padding: 60px 70px;
+  position: absolute;
+  font-family: Poppins;
+  font-weight: bold;
+  font-size: 23.8258px;
+  line-height: 36px;
+  color: #172972;
+  z-index: 1;
+}
+.long{
+  padding: 46px 70px;
+}
+/*for the vocab game h2*/
+.why{
+  top: 1px;
+}
+/* unvisited link */
+a:link {
+  color: #172972;
+  text-decoration: none;
+}
+/* visited link */
+a:visited {
+  color: #172972;
+  text-decoration: none;
+}
+/* mouse over link */
+a:hover {
+  color: #172972;
+  text-decoration: none;
+}
+/* selected link */
+a:active {
+  color: #172972;
+  text-decoration: none;
+}
+/*shape things*/
+.blue{
+  position: relative;
+  padding: 25px;
+}
+.gray{
+  position: absolute;
+  top: 30px;
+  left: 15px;
+}
+#logo {
+  position: absolute;
+  top: 0;
+  /* Add additional styling if needed */
+}

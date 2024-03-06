@@ -1,0 +1,39 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="snake.css">
+  <title>SNAKE GAME</title>
+</head>
+<body>
+  <audio id="background-music" autoplay loop>
+    <source src="https://example.com/arcade-music.mp3" type="audio/mp3">
+    Your browser does not support the audio tag.
+  </audio>
+
+  <div class="title-banner">
+    <h1>SNAKE GAME</h1>
+  </div>
+  <div class="game-container">
+    <button id="start-button" class="button">Start Snake Game</button>
+    <div id="game-board"></div>
+    <div id="score">Score: 0</div>
+  </div>
+
+  <div class="button-container">
+
+    <button class="button return" onclick="goBack()">Return</button>
+    <!-- Add more buttons for different game options as needed -->
+  </div>
+
+  <script src="snake.js"></script>
+
+  <script>
+    function goBack() {
+      window.history.back();
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "question": "Past tense of MAKE",
+      "answers": ["makes", "maked", "made"],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": "Past tense of BUY",
+      "answers": ["buyed", "bought", "buys"],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": "Past tense of WATCH",
+      "answers": ["watched", "watches", "watch"],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": "Past tense of BEGIN",
+      "answers": ["began", "begun", "begined"],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": "Past tense of CHOOSE",
+      "answers": ["choosed", "chosen", "chose"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "Past tense of SPEAK",
+      "answers": ["spoke", "spoken", "speaked"],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": "Past tense of STEAL",
+      "answers": ["stealed", "stole", "stolen"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "Past tense of CATCH",
+      "answers": ["caught", "catched", "catches"],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": "Past tense of GO",
+      "answers": ["gone", "goed", "went"],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "question": "Past tense of LEAVE",
+      "answers": ["leaved", "leaves", "left"],
+      "correct": 2
+    },
+    {
+      "id": 11,
+      "question": "Past tense of MEET",
+      "answers": ["met", "meet", "meted"],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": "Past tense of RECEIVE",
+      "answers": ["receives", "received", "receiving"],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": "Past tense of DRINK",
+      "answers": ["drank", "drunk", "drinking"],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": "Past tense of KNOW",
+      "answers": ["knew", "knowed", "known"],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "question": "Past tense of FALL",
+      "answers": ["falled", "fallen", "fell"],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": "Past tense of PROVE",
+      "answers": ["proved", "proven", "proves"],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "question": "Past tense of HEAR",
+      "answers": ["hears", "heared", "heard"],
+      "correct": 2
+    },
+    {
+      "id": 18,
+      "question": "Past tense of DO",
+      "answers": ["does", "did", "done"],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "Past tense of TEACH",
+      "answers": ["teached", "taught", "teaches"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": "Past tense of BECOME",
+      "answers": ["become", "became", "becomed"],
+      "correct": 1
+    }
+  ]
+  

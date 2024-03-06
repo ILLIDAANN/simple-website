@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "question": "By the time they arrived at the party, the band ________ already started playing.",
+        "answers": ["had", "was playing", "have been playing"],
+        "correct": 0
+    },
+    {
+        "id": 2,
+        "question": "She ________ lost her keys before she even left the house.",
+        "answers": ["has", "had", "have"],
+        "correct": 1
+    },
+    {
+        "id": 3,
+        "question": "We ________ been to Paris before last summer.",
+        "answers": ["hadn't", "haven't", "weren't"],
+        "correct": 0
+    },
+    {
+        "id": 4,
+        "question": "After they finished dinner, they ________ tired.",
+        "answers": ["felt", "had felt", "were feeling"],
+        "correct": 1
+    },
+    {
+        "id": 5,
+        "question": "My phone ________ broken when I tripped and fell.",
+        "answers": ["got", "had gotten", "was getting"],
+        "correct": 1
+    },
+    {
+        "id": 6,
+        "question": "By the time I woke up at noon, the sun ________ already set.",
+        "answers": ["had", "has", "was about to"],
+        "correct": 0
+    },
+    {
+        "id": 7,
+        "question": "They ________ graduated by the time their parents arrived for the ceremony.",
+        "answers": ["had", "were", "have been"],
+        "correct": 0
+    },
+    {
+        "id": 8,
+        "question": "We ________ eaten breakfast before the meeting started at 9:00 AM.",
+        "answers": ["would eat", "were eating", "had"],
+        "correct": 2
+    },
+    {
+        "id": 9,
+        "question": "She ________ finished writing her novel before the deadline.",
+        "answers": ["would write", "was writing", "had"],
+        "correct": 2
+    },
+    {
+        "id": 10,
+        "question": "He ________ already packed his bags by the time she told him they weren't going on vacation.",
+        "answers": ["had", "was packing", "would pack"],
+        "correct": 0
+    },
+    {
+        "id": 11,
+        "question": "She ________ never seen such a beautiful sunset before.",
+        "answers": ["had", "has", "hadn't"],
+        "correct": 2
+    },
+    {
+        "id": 12,
+        "question": "They ________ started the meeting when I arrived.",
+        "answers": ["had", "haven't", "weren't"],
+        "correct": 0
+    },
+    {
+        "id": 13,
+        "question": "________ you finished your homework yet?",
+        "answers": ["have", "had", "did"],
+        "correct": 0
+    },
+    {
+        "id": 14,
+        "question": "I ________ eaten lunch before I went to the gym.",
+        "answers": ["haven't", "didn't", "hadn't"],
+        "correct": 2
+    },
+    {
+        "id": 15,
+        "question": "By the time they arrived, the store ________ already closed.",
+        "answers": ["hadn’t", "has", "had"],
+        "correct": 0
+    },
+    {
+        "id": 16,
+        "question": "The underwriter ________ it clear before he left.",
+        "answers": ["had made", "has made", "have made"],
+        "correct": 0
+    },
+    {
+        "id": 17,
+        "question": "The baby ________ on the floor when the mother arrived.",
+        "answers": ["has fallen", "had fallen", "have fallen"],
+        "correct": 1
+    },
+    {
+        "id": 18,
+        "question": "I ________ the ribbons before you prevented me.",
+        "answers": ["have cut", "has cut", "had cut"],
+        "correct": 2
+    },
+    {
+        "id": 19,
+        "question": "The child ________ the aid of the bystanders before police aid came.",
+        "answers": ["had asked", "has asked", "have asked"],
+        "correct": 0
+    },
+    {
+        "id": 20,
+        "question": "The soldier ________ into the tunnel when the fisherman saw her.",
+        "answers": ["have crept", "has crept", "had crept"],
+        "correct": 2
+    }
+]

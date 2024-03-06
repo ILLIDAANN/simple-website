@@ -1,0 +1,185 @@
+
+html{ 
+background-color: #C2E9FB;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 80px;
+  text-align: center;
+
+}
+h1{
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 80px;
+  text-align: center;
+}
+
+body{
+  color: #172972;
+}
+
+#result {
+  color: inear-gradient (32deg, rgba(160,70,149)0%, rgb(224,11,11,1)100%);
+  
+}
+
+.choice-container{
+  display: flex;
+  margin-bottom: 0.8rem;
+  width: 100%;
+  border-radius: 4px;
+  background:rgb(56,119,128);
+  font-size: 3rem;
+  min-width: 80rem;
+} 
+
+.choice-container:hover{
+  cursor: pointer;
+  box-shadow: 0 0.4rem 1.4rem 0 rgba(194, 233, 251, 1);
+  transform; scale(1.02);
+  transform: transform 100ms;
+}
+
+.choice-prefix{
+  padding: 2rem 2.5rem;
+  color: #FFFFFF;
+}
+
+.choice-text{
+  padding: 2rem;
+  width: 100%;
+}
+
+.correct{
+  background:linear-gradient (32deg, rgba(70,149,160)0%, rgb(41,232,11)100%)
+}
+
+.incorrect{
+  background:linear-gradient (32deg, rgba(160,70,149)0%, rgb(224,11,11,1)100%)
+}
+
+/*Info Pop Up*/
+
+
+/* Heads up Display*/
+#hud{ 
+display: flex;
+justify-content: space-between;
+}
+
+.hud-prefix{
+  text-align: center;
+  font-size: 2rem;
+}
+
+.hud-main-text{
+  text-align: center;
+}
+
+#progressBar{
+  width: 20rem;
+  height: 3rem;
+  border: 0.2rem solid rgba(23, 41, 114, 1);
+  margin-top: 2rem;
+  border-radius; 50px;
+  overflow: hidden;
+}
+
+#progressBarFull{
+  height: 100%;
+  background: rgba(23, 41, 114, 1);
+  width:0%;
+}
+
+.choice-container{
+  min-width: 40rem;
+}
+
+.return{
+  background: #172972;
+  color: #FFFFFF;
+  border: 1px;
+  border-radius: 30px;
+  padding: 10px 25px;
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;  font-weight: bold;
+}
+
+/* unvisited link */
+a:link {
+  color: white;
+  text-decoration: none;
+}
+/* visited link */
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+/* mouse over link */
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+/* selected link */
+a:active {
+  color: white;
+  text-decoration: none;
+}
+
+
+//
+
+.popup .overlay {
+  position:fixed;
+  top:0px;
+  left:0px;
+  width:1000vw;
+  height:100vh;
+  background:rgba(23, 41, 114, 1);
+  z-index:1;  
+  display:none;
+  }
+
+.popup .content{
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%) scale(0);
+  width:475px;
+  height:3000px;
+  background:#fff;
+  z-index:4; 
+  text-align:center;
+  padding:20px; 
+  box-sizing:border-box;
+}
+
+.popup .close-btn {
+  cursor:pointer;
+  position:absolute;
+  right:20px;
+  top:20px;
+  width:30px;
+  height:30px;
+  background:rgba(23, 41, 114, 1);
+  color: #fff;
+  font-size:25px;
+  font-weight:600;
+  z-index:2; 
+  line-height:30px;
+  text-align:center;
+  border-radius: 50%; 
+}
+
+.popup.active .overlay {
+  display:block;
+  }
+
+.popup.active .content {
+  transition:all 300ms ease-in-out;
+  transform:translate(-50%,-50%) scale(1);
+  }

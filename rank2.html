@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rank Game</title>
+    <link rel="stylesheet" href="rank.css">
+</head>
+
+<body>
+    <body>
+        <div class="game-container">
+            <h1>Lets start!</h1>
+            <div id="question-container">
+                <p id="question">Loading question...</p>
+                <button id="btn-1" onclick="redirectToOption('optionP1.html')">BEGINNER</button>
+                <button id="btn-2" onclick="redirectToOption('optionP2.html')">INTERMEDIATE</button>
+                <button id="btn-3" onclick="redirectToOption('optionP3.html')">ADVANCED</button>
+            
+            </div>
+            <div id="result-container">
+                <p id="result"></p>
+                <button id="next-btn">Next Question</button>
+            </div>
+            <!-- Return button -->
+            <a href="index.html" class="return-btn">Return</a>
+        </div>
+    
+        <script src="script2.js"></script>
+        <script>
+            function redirectToOption(url) {
+              window.location.href = url;
+            }
+          </script>
+    </body>
+    
+
+</html>
